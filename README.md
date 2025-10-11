@@ -1,5 +1,5 @@
 # ds_shruti
-# trader sentiment analysis 
+# Trader Sentiment Analysis 
 A data science project exploring how trader behavior (profitability, risk, and volume) correlates with market sentiment using Hyperliquid trade data and the Fear–Greed Index dataset(2018–2025).
 
 # Highlights
